@@ -50,7 +50,7 @@ git push origin main
 ## Live Deployment
 
 ⚠️ **IMPORTANT:** You need to configure your GitHub Pages settings (step 4 above) in order to see your deployed app!
-
+done
 Once you push your changes to the `main` branch:
 
 1. **GitHub Actions** will automatically:
